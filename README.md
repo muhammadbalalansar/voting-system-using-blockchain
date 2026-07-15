@@ -1,4 +1,4 @@
-By Muhammad Balal Ansar (Cyber Security Expert)
+**By Muhammad Balal Ansar (Cyber Security Expert)**
 
 **Voting System using Block-Chain**
 
