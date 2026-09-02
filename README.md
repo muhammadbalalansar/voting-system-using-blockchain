@@ -7,7 +7,8 @@ How to run
 1.	Make sure you are connected to the internet.
 2.	Install all the (pip) dependency packages (main packages are listed in requirements.txt).
 3.	Locate EMAIL_ADDRESS and EMAIL_PASSWORD variable in Election/settings.py file and assign your valid credentials. (See References)
-4.	Make sure email sending is allowed (while development process sending email every time is not a good idea because API allows us to send email only for limited no. of times.).
+4.	
+5.	Make sure email sending is allowed (while development process sending email every time is not a good idea because API allows us to send email only for limited no. of times.).
  For this make sure send_otp() method in views.py file looks like this:
 ...
 [success, result] = send_email_otp(email_input)
