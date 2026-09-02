@@ -19,6 +19,5 @@ send_email_private_key(request.session['email-id'], private_key)
 # print(private_key)
 ...
 
-
 5.	Locate manage.py file and run python manage.py runserver in the same directory.
 6.	Locate the URL provided in the terminal and access that. by default it is http://127.0.0.1:8000.
