@@ -2,7 +2,7 @@
 
 **Voting System using Block-Chain**
 
-A user can cast his vote by visiting this web platform. For web server scripting we have used python based web framework Django.
+A user can cast his vote by visiting this web platform. For web server scripting we have used python based web framework Django. 
 
 How to run
 1.	Make sure you are connected to the internet.
