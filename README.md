@@ -14,6 +14,7 @@ How to run
 [success, result] = send_email_otp(email_input)
 # [success, result] = [True, '0']
 ...
+
  and get_parties() method in same file (views.py) looks like this:
 ...
 
